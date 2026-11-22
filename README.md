@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/faikamanzoor/leetcode/tree/master/0001-two-sum) |
 | [0704-binary-search](https://github.com/faikamanzoor/leetcode/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/faikamanzoor/leetcode/tree/master/1470-shuffle-the-array) |
 ## Binary Search
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/faikamanzoor/leetcode/tree/master/1603-design-parking-system) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/faikamanzoor/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
