@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/faikamanzoor/leetcode/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/faikamanzoor/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/faikamanzoor/leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/faikamanzoor/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/faikamanzoor/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/faikamanzoor/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/faikamanzoor/leetcode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/faikamanzoor/leetcode/tree/master/0704-binary-search) |
 ## Design
